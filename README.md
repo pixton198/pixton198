@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SACHIDANANDA GURU
 =========================================================================================================================================
 
-Androaid Developer & Designer
+  Developer
 -----------------------------
 
-📱 My passion for mobile development knows no bounds. From designing sleek user interfaces to implementing robust backend functionalities, I thrive on bringing ideas to life through elegant and intuitive applications. With each project, I strive to push the boundaries of what's possible, constantly seeking new technologies and methodologies to refine my craft. 🎮 In addition to mobile development, I harbor a deep fascination for game development. Exploring the realms of Unity, Unreal Engine, and other game engines, I relish the challenge of creating immersive gaming experiences that captivate and engage players. Whether it's designing captivating gameplay mechanics or optimizing performance, I'm driven by the pursuit of excellence in every aspect of game development.
+📱 My passion for  development knows no bounds. From designing sleek user interfaces to implementing robust backend functionalities, I thrive on bringing ideas to life through elegant and intuitive applications. With each project, I strive to push the boundaries of what's possible, constantly seeking new technologies and methodologies to refine my craft. 🎮 In addition to mobile development, I harbor a deep fascination for game development. Exploring the realms of Unity, Unreal Engine, and other game engines, I relish the challenge of creating immersive gaming experiences that captivate and engage players. Whether it's designing captivating gameplay mechanics or optimizing performance, I'm driven by the pursuit of excellence in every aspect of game development.
 
 * 🌍  I'm based in Bhubaneswar,Odisha,India
 * ✉️  You can contact me at [sdesachi1@gmail.com](mailto:sdesachi1@gmail.com)
-* 🧠  I'm learning java , flutter, androaid studio
-* 🤝  I'm open to collaborating on mobile apps and game dev
+* 🧠  I'm learning java , flutter
+* 🤝  I'm open to collaborating on AI 
 * ⚡  i'm secretly Spider man but dont tell any one.😅😅😅😅👻
 
 <a href="https://www.github.com/pixton198" target="_blank" rel="noreferrer"><img
